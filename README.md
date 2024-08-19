@@ -32,10 +32,8 @@ Correlation analysis to identify important predictors
 
 # Model Training and Evaluation
 Linear Regression
-Decision Tree Regressor
-Random Forest Regressor
-Gradient Boosting
-XGBoost
+Decision Tree
+Random Forest 
 Neural Networks
 
 # Model Evaluation Metrics
@@ -43,4 +41,3 @@ Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 R-squared
-Getting Started
